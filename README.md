@@ -6,7 +6,7 @@ Bowtie is memory-efficient alignment tools that alignes the sequencing reads to 
 
 conda install -c bioconda bowtie2
 
-# Running Bowtie2 tool
+# Running Bowtie2 tool for metagenomic analysis
 
 > First Index the reference genome;
 
